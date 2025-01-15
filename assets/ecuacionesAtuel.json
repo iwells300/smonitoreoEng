@@ -1,0 +1,100 @@
+[
+    {
+        "estacion": 11415,
+        "fecha": 1719792000000,
+        "min": 0.6,
+        "max": 1.5,
+        "curva": "6.8445*(medicion-0.059327)**3.4985"
+    },
+    {
+        "estacion": 11428,
+        "fecha": 1634947200000,
+        "min": -0.2,
+        "max": 0.6,
+        "curva": "0.021534*(medicion+2.1657)**8.0000"
+    },
+    {
+        "estacion": 11435,
+        "fecha": 1625097600000,
+        "min": 0.15,
+        "max": 0.8,
+        "curva": "14.631*(medicion+0.67449)**3.0755"
+    },
+    {
+        "estacion": 11403,
+        "fecha": 1625184000000,
+        "min": 2.6,
+        "max": 3.6,
+        "curva": "18.963*(medicion-1.8707)**3.5456"
+    },
+    {
+        "estacion": 11453,
+        "fecha": 1625097600000,
+        "min": 1.1,
+        "max": 1.7,
+        "curva": "12.668*(medicion-0.83269)**2.6363"
+    },
+    {
+        "estacion": 11453,
+        "fecha": 1625097600000,
+        "min": 1.7,
+        "max": 2.5,
+        "curva": "25.164*medicion**2.0000-71.466*medicion+58.598"
+    },
+    {
+        "estacion": 11448,
+        "fecha": "00:00:00",
+        "min": 0.0,
+        "max": 0.0,
+        "curva": 0
+    },
+    {
+        "estacion": 14404,
+        "fecha": 1625270400000,
+        "min": 0.0,
+        "max": 0.485,
+        "curva": "0*medicion"
+    },
+    {
+        "estacion": 14404,
+        "fecha": 1625270400000,
+        "min": 0.485,
+        "max": 1.6,
+        "curva": "4.9208*(medicion+0.093751)**3.8259"
+    },
+    {
+        "estacion": 14417,
+        "fecha": "00:00:00",
+        "min": 0.0,
+        "max": 0.0,
+        "curva": 0
+    },
+    {
+        "estacion": 14411,
+        "fecha": 1625097600000,
+        "min": 0.0,
+        "max": 0.32,
+        "curva": "0*medicion"
+    },
+    {
+        "estacion": 14411,
+        "fecha": 1625097600000,
+        "min": 0.32,
+        "max": 0.85,
+        "curva": "-0.642+1.423*medicion+3.238*medicion**2"
+    },
+    {
+        "estacion": 14416,
+        "fecha": "00:00:00",
+        "min": 0.0,
+        "max": 0.0,
+        "curva": 0
+    },
+    {
+        "estacion": 14410,
+        "fecha": "00:00:00",
+        "min": 0.0,
+        "max": 0.0,
+        "curva": 0
+    }
+]
